@@ -1,6 +1,2 @@
-this is a test txt
-this is a update txt
-add this line txt
-add this line again
-add fifth line
-add sixth line
+天不生我李淳罡，剑道万古如长夜。
+一剑寒光十九州，四海纵横不惧愁。
